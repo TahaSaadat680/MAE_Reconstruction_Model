@@ -33,3 +33,7 @@ Thumbs.db
 
 # Streamlit cache
 .streamlit/
+
+# Allow checked-in Streamlit app config
+!.streamlit/
+!.streamlit/config.toml
